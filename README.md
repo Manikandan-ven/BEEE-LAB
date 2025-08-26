@@ -81,12 +81,14 @@ Tabulation:
 
 a.   KVL:
  
-![WhatsApp Image 2025-08-26 at 14 17 12_b9b334fb](https://github.com/user-attachments/assets/51364f3f-5ff7-425c-8554-82b92afff1ea)
+![WhatsApp Image 2025-08-26 at 14 21 58_201a13f2](https://github.com/user-attachments/assets/33e915ab-312a-49c4-913b-574eb12e7240)
+
 
 
 b.  KCL:
 
-![WhatsApp Image 2025-08-26 at 14 18 58_3c12a3fe](https://github.com/user-attachments/assets/741e5b5c-eec1-47f8-a012-d60e6f40a168)
+![WhatsApp Image 2025-08-26 at 14 22 09_4feadaf1](https://github.com/user-attachments/assets/a95f985d-d821-4763-b819-efaa99eccea3)
+
 
 
 RESULT:
